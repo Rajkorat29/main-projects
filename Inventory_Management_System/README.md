@@ -1,4 +1,4 @@
-echo "# 🧾 Inventory Management System
+# 🧾 Inventory Management System
 
 A complete inventory & billing system built using **Python Tkinter** and **MySQL**, with support for employee/supplier management, product tracking, and secure login.
 
@@ -35,7 +35,9 @@ A complete inventory & billing system built using **Python Tkinter** and **MySQL
 
 ## 📂 Folder Structure
 
-\`\`\`
+This will render properly like:
+
+```
 Inventory_Management_System/
 ├── login.py
 ├── dashboard.py
@@ -52,7 +54,6 @@ Inventory_Management_System/
 │   └── icons, logos, etc.
 ├── README.md
 └── main.py
-\`\`\`
 
 ---
 
