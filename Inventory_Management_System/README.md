@@ -55,6 +55,7 @@ Inventory_Management_System/
 ├── README.md
 └── main.py
 
+```
 ---
 
 ## ⚙️ Setup Instructions
